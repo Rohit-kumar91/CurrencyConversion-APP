@@ -1,0 +1,13 @@
+//
+//  Release.xcconfig
+//  CurrencyConversionApp
+//
+//  Created by Rohit Kumar on 05/02/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+scheme = https
+host = openexchangerates.org
+APIKey = a660ad22da35443db70eb1e951edd91f
